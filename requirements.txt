@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+textblob
+scikit-learn
+imbalanced-learn
+seaborn
+matplotlib
+mljar-supervised
+datasets
